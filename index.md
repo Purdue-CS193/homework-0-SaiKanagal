@@ -17,8 +17,9 @@ hello world
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- I like how the class is beginner friendly
+- I like how the class is taught by upperclassmen
+- I like how the class is only one hour long and meant to introduce us to computer science
 
 1. Numbered
 2. List

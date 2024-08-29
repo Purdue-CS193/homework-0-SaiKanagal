@@ -9,9 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-- I love
-- markdown
-- its very easy to use
+- I like how the class is beginner friendly
+- I like how the class is taught by upperclassmen
+- I like how the class is only one hour long and meant to introduce us to computer science
 
 ```markdown
 Syntax highlighted code block
@@ -20,9 +20,6 @@ hello world
 ## Header 2
 ### Header 3
 
-- I like how the class is beginner friendly
-- I like how the class is taught by upperclassmen
-- I like how the class is only one hour long and meant to introduce us to computer science
 
 1. Numbered
 2. List
